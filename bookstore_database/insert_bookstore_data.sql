@@ -1,4 +1,5 @@
 USE `BookstoreDB`;
+
 -- Insert into Books
 INSERT INTO `Books` (`ISBN`, `Title`, `Price`) VALUES
 ('9781234567890', 'The Hitchhiker''s Guide to the Galaxy', 7.99),
