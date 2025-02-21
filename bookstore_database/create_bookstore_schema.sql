@@ -1,5 +1,7 @@
 CREATE DATABASE `BookstoreDB`;
+
 USE `BookstoreDB`;
+
 -- Books Table [cite: 11]
 CREATE TABLE `Books` (
    `ISBN` VARCHAR(20) PRIMARY KEY,
